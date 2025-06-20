@@ -24,4 +24,4 @@ I used Lionel Messi's injury record from Transfermarkt up to the year I made thi
 - Jupyter Notebook
 
 ## Why this one?
-I selected this project because I found it to be the most presentable among all my older projects, especially after curating it.
+I selected this project because I found it to be the most presentable among my older projects, especially after curating it.
