@@ -4,8 +4,7 @@ This is a mini-project I created in 2023. I decided to showcase it on this profi
 
 This is an edited version of the old project. I made the project more presentable and removed unnecessary content. I have not performed data edits.
 
-You can view this version of the project by clicking on the following link:
-[Messi Injuries Edited 2025 version](https://github.com/jakov1003/2023_messi_injuries_Python_HTML/blob/main/messi_injuries.ipynb)
+New version: [Messi Injuries Edited 2025 version](https://github.com/jakov1003/2023_messi_injuries_Python_HTML/blob/main/messi_injuries.ipynb)
 
 Old version: [Messi Injuries Unedited 2023 version](https://github.com/jakov1002/messi_injuries_Python_SQL_HTML)
 
