@@ -368,19 +368,6 @@ display(df)
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -620,19 +607,6 @@ df.dtypes
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -774,19 +748,6 @@ df.dtypes
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -967,19 +928,6 @@ display(df2)
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -1112,19 +1060,6 @@ display(df2)
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -1219,19 +1154,6 @@ df3.dtypes
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -1366,19 +1288,6 @@ updated_df3.to_csv("messi_injuries_by_age")
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -1476,18 +1385,18 @@ updated_df3.dtypes
 
 
 
-In cell below this markdown you can see a graph showing the relationship between Messi's age and the number of matches he missed due to injury.
+In the cell below this markdown, you can see a graph showing the relationship between Messi's age and the number of matches he missed due to injury.
 
 I also made another graph further below showcasing the relationship between the duration of Messi's injuries in days and, again,
 his age. I wrote the insights below that second graph.
 
-The graphs look very similar, but they are not the same. However, the same conclusion can be derived from both graphs. 
+The graphs appear very similar, but they are not the same. However, the same conclusion can be derived from both graphs. 
 
 If I were doing this project now (2025), I would have only made the duration in days graph due to that factor being more relevant in this case. 
 
-Why I do I think the duration in days is more important than the number of matches missed? 
+Why is the duration in days more important than the number of matches missed? 
 
-Well, my intention was to assess how injuries affected Messi over the course of his career up to 2023 rather than 
+Well, I intended to assess how injuries affected Messi throughout his career up to 2023 rather than 
 whether they were detrimental to his record-breaking contribution to Barcelona and the spell at PSG (he had not transferred to Inter Miami yet).
 
 
@@ -1537,7 +1446,7 @@ plt.show()
     
 
 
-The insight text below this sentence was written by me at the time of making of this project in 2023. I haven't edited it. 
+I wrote the insight text below this sentence at the time of making of this project in 2023. I haven't edited it. 
 
 We can notice a pattern in Messi injury record. Look at the lowpoints of his injuries in three periods: before the age of 21, between the ages of 21 and 29 and after and including the age of 30. The extent varies, but before the age of 21 and after the age of 29 the lengths of his shortest injuries in those two periods of his career are bigger than the lengths of his shortest injuries between the ages of 21 and 29.
 
