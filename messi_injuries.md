@@ -1533,7 +1533,7 @@ plt.show()
 
 
     
-![png](messi_injuries_files/messi_injuries_29_0.png)
+![png](images\messi_2.png)
     
 
 
